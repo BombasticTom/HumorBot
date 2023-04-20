@@ -13,7 +13,7 @@ class Client(commands.Bot):
     def __init__(self, cmdprf: str, dcIntents: discord.Intents):
         # Initializing stuff (not important)
         super().__init__(command_prefix = cmdprf, intents = dcIntents())
-        self.cogsToLoad = [file[:-3] for file in os.listdir('./source/cogs') if file.endswith('.py')]
+        # self.cogsToLoad = [file[:-3] for file in os.listdir(os.getcwd() + '/source/cogs') if file.endswith('.py')]
 
     """
     async def setup_hook(self):
