@@ -12,3 +12,7 @@ class Configuration:
 ```
 
 Once done, you should be good to go. Just run the `main.py` file!
+
+# How to use?
+
+It's simple. Once the bot is online, send a message containing text `@BotName order pizza` (that is the only current feature for now).
