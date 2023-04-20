@@ -3,7 +3,7 @@ You will need to install Python and a module called "discord". Basically, you wo
 
 `pip install discord`
 
-You will also need to make a new `.py` file in the `sources` folder. You should put in the following:
+You will also need to make a new `Configuration.py` file in the `sources` folder. You should put in the following:
 ```py
 # A Configuration class specifically made for organizing.
 class Configuration:
