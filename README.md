@@ -15,4 +15,6 @@ Once done, you should be good to go. Just run the `main.py` file!
 
 # How to use?
 
-It's simple. Once the bot is online, send a message containing text `@BotName order pizza` (that is the only current feature for now).
+It's simple. Once the bot is online, send a message containing text `@BotName order pizza`.
+
+You can also type anything with "Riveren" in the message while having #ShadowCult in your username, you'll be surprised with the response you'll get.
